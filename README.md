@@ -1,5 +1,7 @@
-# bandicoot theme
+# Bandicoot theme
 
-A short description of your theme.
+A dark background color scheme for Atom (Converted from https://github.com/jkloo/Bandicoot).
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+<div style="border-radius: 5px; border: 2px solid;border-color: #000; box-shadow: 10px 10px 5px #888888">
+![Screenshot](images/screenshot.png)
+</div>
