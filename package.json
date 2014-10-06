@@ -1,0 +1,12 @@
+{
+  "name": "bandicoot",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A dark background color scheme for Atom (Converted from https://github.com/jkloo/Bandicoot).",
+  "repository": "https://github.com/jkloo/Bandicoot-Atom",
+  "private": false,
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
